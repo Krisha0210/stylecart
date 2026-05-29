@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import bcrypt from 'bcryptjs';
 import User from './models/User.js';
-import Products from './models/Product.js';
+import Product from './models/Product.js';
 import Order from './models/Order.js';
 
 import { mockDb } from './config/mockDb.js';
