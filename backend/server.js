@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("StyleCart Backend Running");
+  res.json({ message: "Backend working perfectly" });
 });
 
 app.use("/api/products", productRoutes);
