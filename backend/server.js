@@ -43,8 +43,8 @@ app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
 
 // Base route
-app.get('/', (req, res) => {
-  res.json({ message: 'StyleCart API is running...' });
+app.get("/", (req, res) => {
+  res.send("StyleCart Backend Running");
 });
 
 // 404 Not Found Middleware
@@ -64,5 +64,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log('Server running on port ${PORT}' );
+  console.log(`Server running on port ${PORT}` );
 });
