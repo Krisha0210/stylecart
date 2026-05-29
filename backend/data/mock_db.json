@@ -4,17 +4,17 @@
       "_id": "usr_user",
       "name": "Jane Doe",
       "email": "user@stylecart.com",
-      "password": "$2a$10$sQIa4HdDALcdbzOBJWpCsebfxHC/fNCQ0SN.ypBWFd4oIs.VYSF8G",
+      "password": "$2a$10$uhvnUptzz4Se7bxwGZcrcOnSASAJgs4Xwc.i6w/M8JXWT7yHYEjF2",
       "isAdmin": false,
-      "createdAt": "2026-05-29T08:05:26.283Z"
+      "createdAt": "2026-05-29T17:18:25.373Z"
     },
     {
       "_id": "usr_admin",
       "name": "StyleCart Admin",
       "email": "admin@stylecart.com",
-      "password": "$2a$10$sQIa4HdDALcdbzOBJWpCser466l3zggwxRvyWv51BqS/ctHLlLn8e",
+      "password": "$2a$10$uhvnUptzz4Se7bxwGZcrcOq0/s/nwMJYd/Xl0bQjkF7YQq0kX0fO6",
       "isAdmin": true,
-      "createdAt": "2026-05-29T08:05:26.283Z"
+      "createdAt": "2026-05-29T17:18:25.373Z"
     }
   ],
   "products": [
@@ -29,7 +29,7 @@
       "rating": 4.8,
       "numReviews": 24,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.134Z"
+      "createdAt": "2026-05-29T17:17:55.119Z"
     },
     {
       "_id": "prod_2",
@@ -42,7 +42,7 @@
       "rating": 4.5,
       "numReviews": 15,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_3",
@@ -55,7 +55,7 @@
       "rating": 4.3,
       "numReviews": 9,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_4",
@@ -68,7 +68,7 @@
       "rating": 4.6,
       "numReviews": 18,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_5",
@@ -81,7 +81,7 @@
       "rating": 4.9,
       "numReviews": 42,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_6",
@@ -94,7 +94,7 @@
       "rating": 4.7,
       "numReviews": 29,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_7",
@@ -107,7 +107,7 @@
       "rating": 4.4,
       "numReviews": 14,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_8",
@@ -120,7 +120,7 @@
       "rating": 4.5,
       "numReviews": 11,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_9",
@@ -133,7 +133,7 @@
       "rating": 4.7,
       "numReviews": 31,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_11",
@@ -146,7 +146,7 @@
       "rating": 4.2,
       "numReviews": 8,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.129Z"
     },
     {
       "_id": "prod_12",
@@ -159,7 +159,7 @@
       "rating": 4.7,
       "numReviews": 27,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.130Z"
     },
     {
       "_id": "prod_13",
@@ -172,7 +172,7 @@
       "rating": 4.5,
       "numReviews": 35,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.130Z"
     },
     {
       "_id": "prod_14",
@@ -185,7 +185,7 @@
       "rating": 4.8,
       "numReviews": 52,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.130Z"
     },
     {
       "_id": "prod_16",
@@ -198,7 +198,7 @@
       "rating": 4.7,
       "numReviews": 19,
       "user": "usr_admin",
-      "createdAt": "2026-05-29T08:05:23.144Z"
+      "createdAt": "2026-05-29T17:17:55.130Z"
     }
   ],
   "orders": []

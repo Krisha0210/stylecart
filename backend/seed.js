@@ -178,7 +178,7 @@ const products = [
 
 const seedData = async () => {
   try {
-    const conn = await mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/stylecart');
+    const conn = await mongoose.connect(process.env.MONGO_URI);
     console.log(`MongoDB Connected for Seeding: ${conn.connection.host}`);
 
     // Clear existing database collections
